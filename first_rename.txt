@@ -4,3 +4,4 @@ I want to go commit 2
 this is something new for you
 this is changred for 0nly you anfd your friend
 this develope by master branch
+this is added form bugfix brnach and how are you
